@@ -1,2 +1,0 @@
-# myfirstgit
-ever first git
